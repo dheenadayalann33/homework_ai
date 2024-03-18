@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "619617877781",
+    "project_id": "homework-app-98a84",
+    "storage_bucket": "homework-app-98a84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619617877781:android:77974d084b3f31c0e1731c",
+        "android_client_info": {
+          "package_name": "com.example.homework_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619617877781-75k0thkvnikgblavh6fdtmb8e5ncvoe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCedpdP_hiKs0zKvUdzHKdC3cyS-lc4Vvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619617877781-75k0thkvnikgblavh6fdtmb8e5ncvoe9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "619617877781-e49jbdoa1ehiv48m9vigl0gog6v6slde.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homeworkApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619617877781:android:fedd8bfbce240e00e1731c",
+        "android_client_info": {
+          "package_name": "com.example.homework_ai_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619617877781-75k0thkvnikgblavh6fdtmb8e5ncvoe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCedpdP_hiKs0zKvUdzHKdC3cyS-lc4Vvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619617877781-75k0thkvnikgblavh6fdtmb8e5ncvoe9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "619617877781-e49jbdoa1ehiv48m9vigl0gog6v6slde.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homeworkApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619617877781:android:1c05ac632a83175ee1731c",
+        "android_client_info": {
+          "package_name": "com.example.homework_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619617877781-75k0thkvnikgblavh6fdtmb8e5ncvoe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCedpdP_hiKs0zKvUdzHKdC3cyS-lc4Vvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619617877781-75k0thkvnikgblavh6fdtmb8e5ncvoe9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "619617877781-e49jbdoa1ehiv48m9vigl0gog6v6slde.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homeworkApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
